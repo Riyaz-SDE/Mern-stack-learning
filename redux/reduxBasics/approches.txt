@@ -1,0 +1,12 @@
+Searching Sorting
+Divide & Conquer 
+Greedy Methodology
+Recursion
+Backtracking Algorithm
+Dynamic Programing
+Pattern Searching
+Mathematical Algorithm
+Geometrica Algorithm
+Bitwise Algorithm
+Randomized Algorithm
+Branch & Bound Algorithm
